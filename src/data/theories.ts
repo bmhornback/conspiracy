@@ -193,13 +193,6 @@ export const theories: Theory[] = [
         publication: 'Times Books',
       },
       {
-        title: 'A Mind of Its Own: A Cultural History of the Penis',
-        author: 'Stephen Kinzer',
-        year: 2019,
-        type: 'book',
-        publication: 'Henry Holt and Company',
-      },
-      {
         title: 'Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control',
         author: 'Stephen Kinzer',
         year: 2019,

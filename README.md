@@ -44,7 +44,7 @@ npm run build
 
 ## Tech Stack
 
-- React 18 + TypeScript
+- React 19 + TypeScript
 - Vite
 - React Router v6
 - Pure CSS (no UI library)
